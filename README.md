@@ -1,2 +1,10 @@
 # Fundamental-of-Data-Science-FDS-
-The particular repository contains files for beginner of data science fundamentals.
+
+
+## INDEX
+
+The following index shows the format of the Practicals
+
+| SR.NO | Name of the practical |
+| ------ | ------ |
+| 1 | Practical 1  |
