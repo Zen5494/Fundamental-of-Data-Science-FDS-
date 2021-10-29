@@ -10,4 +10,6 @@ The following index shows the format of the Practicals
 | 1 | Practical 1  |
 | 2 | Practical 2  |
 | 3 | Practical 3  |
-| 3 | Practical 4  |
+| 4 | Practical 4  |
+| 5 | Practical 5  |
+| 6 | Practical 6  |
