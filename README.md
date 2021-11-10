@@ -13,3 +13,4 @@ The following index shows the format of the Practicals
 | 4 | Practical 4  |
 | 5 | Practical 5  |
 | 6 | Practical 6  |
+| 7 | Practical 7  |
